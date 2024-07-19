@@ -3,9 +3,9 @@
 
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **java, C, C++**
+- 💬 Ask me about **Python, HTML**
 
 - 📫 How to reach me **nssiriwardhana22gmail.com**
 
