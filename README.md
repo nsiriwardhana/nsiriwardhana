@@ -3,9 +3,6 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning, Python**
-
-- 💬 Ask me about **HTML**
 
 - 📫 How to reach me **nssiriwardhana22gmail.com**
 
